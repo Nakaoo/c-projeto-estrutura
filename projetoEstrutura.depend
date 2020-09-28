@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1582990326 source:c:\users\kn_na\desktop\projetoestrutura\listacontatos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaContatos.h"
+
+1575511298 c:\users\kn_na\desktop\projetoestrutura\listacontatos.h
+
+1582990548 source:c:\users\kn_na\desktop\projetoestrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaContatos.h"
+	<string.h>
+
